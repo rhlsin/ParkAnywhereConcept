@@ -1,0 +1,113 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="parkantwhere.com" resolutions="1x" timestamp="1544537868967">
+  <folder name="assets">
+    <file name="animated-hamburger-widget_creativated.mulib" crc="4224900333" seo="true" mt="1522851366000"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4186398613" ref="tablet>index"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="tablet>index"/>
+      <file name="index.css" crc="264944714" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3861340183" seo="true" mt="1522940161191" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4185984948" ref="phone>index"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="231659294" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4148266402" seo="true" mt="1522941035243" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="33644072" ref="index:sign-up:about:royd:help"/>
+    <file name="index.css" crc="304283515" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="381772722" ref="sign-up:about:index:royd:help"/>
+    <file name="sign-up.css" crc="173335076" ref="sign-up"/>
+    <file name="nomq_sign-up.css" crc="3832047349" ref="sign-up"/>
+    <file name="about.css" crc="4294513385" ref="about"/>
+    <file name="nomq_about.css" crc="414448394" ref="about"/>
+    <file name="nomq_index.css" crc="232011635" ref="index"/>
+    <file name="royd.css" crc="29202449" ref="royd"/>
+    <file name="nomq_royd.css" crc="4204401176" ref="royd"/>
+    <file name="help.css" crc="173335076" ref="help"/>
+    <file name="nomq_help.css" crc="3832047349" ref="help"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:tablet>index:about:royd:help:sign-up"/>
+    <file name="museutils.js" crc="163421577" ref="index:phone>index:tablet>index:about:royd:help:sign-up"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:tablet>index:about:royd:help:sign-up"/>
+    <file name="museconfig.js" crc="168988563" ref="index:phone>index:tablet>index:about:royd:help:sign-up"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:phone>index:tablet>index:about:royd"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:phone>index:tablet>index:about:royd:help:sign-up"/>
+    <file name="require.js" crc="244322403" ref="index:phone>index:tablet>index:about:royd:help:sign-up"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:index:about:royd:help:sign-up"/>
+    <file name="webpro.js" crc="3848665353" ref="phone>index:index:about:royd:help:sign-up"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="phone>index:index:about:royd:help:sign-up"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index:about:royd:help:sign-up"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:about:royd:help:sign-up"/>
+  </folder>
+  <folder name="images">
+    <file name="google-maps-stock-image.jpg" crc="249967249" ref="index:phone>index:tablet>index"/>
+    <file name="p-icon.jpg" crc="3852484890" ref="index"/>
+    <file name="parking.jpg" crc="3797719351" ref="index:tablet>index"/>
+    <file name="campaign-bg-3.jpg" crc="3798375496" ref="index:tablet>index"/>
+    <file name="campaign-bg-3-u1864-fr.jpg" crc="3880020634" ref="index"/>
+    <file name="parkering-e1441957508415.jpg" crc="111328173" ref="index:about:royd"/>
+    <file name="facebook.png" crc="348307534" ref="index:tablet>index:about:royd"/>
+    <file name="twitter.png" crc="4009001180" ref="index:tablet>index:about:royd"/>
+    <file name="instagram.png" crc="3920362408" ref="index:tablet>index:about:royd"/>
+    <file name="linkedin.png" crc="114012035" ref="index:tablet>index:about:royd"/>
+    <file name="p-icon-u2804-fr.jpg" crc="362751032" ref="phone>index:index"/>
+    <file name="parking-u2822-fr.jpg" crc="4142848624" ref="phone>index:index"/>
+    <file name="parkering-e1441957508415-u2848-fr.jpg" crc="314051126" ref="phone>index"/>
+    <file name="facebook-u2898-fr.png" crc="313617943" ref="phone>index:index"/>
+    <file name="twitter-u2899-fr.png" crc="120837023" ref="phone>index:index"/>
+    <file name="instagram-u2900-fr.png" crc="15394857" ref="phone>index:index"/>
+    <file name="linkedin-u2901-fr.png" crc="3810855033" ref="phone>index:index:about:royd"/>
+    <file name="p-icon-u2252-fr.jpg" crc="4249975572" ref="tablet>index:index"/>
+    <file name="campaign-bg-3-u2304-fr.jpg" crc="4225286413" ref="tablet>index:index"/>
+    <file name="parkering-e1441957508415-u2319-fr.jpg" crc="4157527766" ref="tablet>index"/>
+    <file name="logo parkinsmall.jpg" crc="169056144" ref="index"/>
+    <file name="parking-u1613-fr.jpg" crc="33455889" ref="index"/>
+    <file name="104427826-google-maps-parking-feat1910x1000.jpg" crc="109283646" ref="index"/>
+    <file name="parkering-e1441957508415-u3983-fr.jpg" crc="125787777" ref="index"/>
+    <file name="p-icon-u3963-fr.jpg" crc="507560033" ref="index"/>
+    <file name="p-icon-u3963-fr2.jpg" crc="233033368" ref="index"/>
+    <file name="104427826-google-maps-parking-feat1910x10002.jpg" crc="3916045380" ref="index"/>
+    <file name="parkering-e1441957508415-u7143-fr.jpg" crc="4227370077" ref="index"/>
+    <file name="facebook-u7161-fr.png" crc="4103565434" ref="index"/>
+    <file name="twitter-u7162-fr.png" crc="448936906" ref="index"/>
+    <file name="instagram-u7163-fr.png" crc="148236448" ref="index"/>
+    <file name="linkedin-u7164-fr.png" crc="235650120" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:royd:help:sign-up"/>
+    <file name="6538e01e-d2a9-4f45-964f-da65224ef41b-large16x9_coverimg34394082_edited.jpg" crc="4186123578" ref="about"/>
+    <file name="parkering-e1441957508415-u14703-fr.jpg" crc="464529364" ref="about:royd"/>
+    <file name="facebook-u14708-fr.png" crc="4124952036" ref="about:royd"/>
+    <file name="twitter-u14709-fr.png" crc="4032173622" ref="about:royd"/>
+    <file name="instagram-u14710-fr.png" crc="4212818559" ref="about:royd"/>
+    <file name="facebook-u14708-fr2.png" crc="358593867" ref="about:royd"/>
+    <file name="twitter-u14709-fr2.png" crc="71387674" ref="about:royd"/>
+    <file name="instagram-u14710-fr2.png" crc="4035225607" ref="about:royd"/>
+    <file name="facebook-u14708-fr3.png" crc="456076618" ref="about:royd"/>
+    <file name="twitter-u14709-fr3.png" crc="235741780" ref="about:royd"/>
+    <file name="instagram-u14710-fr3.png" crc="4255264936" ref="about:royd"/>
+    <file name="linkedin-u14711-fr.png" crc="4119823529" ref="about:royd"/>
+    <file name="facebook-u14708-fr4.png" crc="4268926390" ref="about:royd"/>
+    <file name="twitter-u14709-fr4.png" crc="246097576" ref="about:royd"/>
+    <file name="instagram-u14710-fr4.png" crc="523063003" ref="about:royd"/>
+    <file name="linkedin-u14711-fr2.png" crc="4124436213" ref="about:royd"/>
+    <file name="lal-bahadur-shastri-national-academy-of-administration-mussoorie-ho-mussoorie-ias-institutes-y4kfoq9.jpg" crc="4223099102" ref="royd"/>
+    <file name="google-maps-stock-image-u14229-fr.jpg" crc="303307173" ref="royd"/>
+    <file name="parking-uncovered2e16d0bafill-480x240-c100.jpg" crc="150901116" ref="royd"/>
+    <file name="lal-bahadur-shastri-national-academy-of-administration-mussoorie-ho-mussoorie-ias-institutes-y4kfoq9-u14224-fr.jpg" crc="4082096045" ref="royd"/>
+    <file name="google-maps-stock-image-u14229-fr2.jpg" crc="430348474" ref="royd"/>
+  </folder>
+  <file name="index.html" crc="3920134960" seo="true" mt="1544537559841" redirect="true"/>
+  <file name="about.html" crc="63106056" seo="true" mt="1544536228346" redirect="true"/>
+  <file name="royd.html" crc="322376199" seo="true" mt="1544536228346" redirect="true"/>
+  <file name="help.html" crc="3812133289" seo="true" mt="1544536228346" redirect="true"/>
+  <file name="sign-up.html" crc="4253985061" seo="true" mt="1544536228346" redirect="true"/>
+</manifest>
